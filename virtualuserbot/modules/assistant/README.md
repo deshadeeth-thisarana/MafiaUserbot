@@ -6,7 +6,7 @@ from virtualuserbot import bot
 @assistant_cmd("commandhere", is_args=True)
 @only_pvt
 async def shit(event):
-    await event.reply(f"My master is [Pro](tg://user?id={bot.uid}")
+    await event.reply(f"My master is [Đ€Ş卄ΔĐ€€Ť卄](https://t.me/DeshadeethThisarana)
 ```
 ### If Your Command Has Args Then Set It To `is_args=True` Else Set It To `is_args=False`.
 ### Some Wrappers To Help You ! 
