@@ -5,9 +5,9 @@
 <h4 align="center">A Powerful, Smart And Simple Userbot with 300+ Plugins <br> ... Remodied Friday for Sri Lanka ...</h4>
 
 <p align="center">
-    <a href="https://github.com/inukaasith/virtualuserbot/commits/master"><img src="https://img.shields.io/github/last-commit/inukaasith/virtualuserbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/inukaasith/virtualuserbot/stargazers"><img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/inukaasith/virtualuserbot/network/members"><img src="https://img.shields.io/github/forks/inukaasith/virtualuserbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/deshadeeth-thisarana/virtualuserbot/commits/master"><img src="https://img.shields.io/github/last-commit/deshadeeth-thisarana/virtualuserbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/deshadeeth-thisarana/virtualuserbot/stargazers"><img src="https://img.shields.io/github/stars/deshadeeth-thisarana/virtualuserbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/deshadeeth-thisarana/virtualuserbot/network/members"><img src="https://img.shields.io/github/forks/deshadeeth-thisarana/virtualuserbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
 <p align="center"><a href="https://techwizardent.com/blog/twe_blog_userbot.php"><img src="https://telegra.ph/file/4e1364fb18f899ad47dec.png" width="400"></a></p> 
@@ -15,7 +15,7 @@
 
 ### Here is the Telegram VirtualUserbot. A Remodified version of Friday Userbot for Sri Lanka. Credits To Thier Owners..
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Inukaasith/virtualuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/virtualuserbot)
 
 ## [Visit Website ](https://techwizardent.com/blog/twe_blog_userbot.php)
 
@@ -49,16 +49,16 @@ Complete guide on deploying VirtualUserbot to Heroku.
 
 # ❤️ Support
 
-<a href="https://t.me/Infinity_Bots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/gangoffriendschannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/infinityje"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/gangoffriends"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Please Star this repo If you are deploying this Userbot
 
 <p align="left">
   
-  <a href="https://github.com/inukaasith/virtualuserbot">
-    <img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?style=social">
+  <a href="https://github.com/deshadeeth-thisarana/virtualuserbot">
+    <img src="https://img.shields.io/github/stars/deshadeeth-thisarana/virtualuserbot?style=social">
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Create a account on [Heroku](dashboad.heroku.com) first. Then goto settings scro
 ## 4)   Plugin Channel and Private Group ID
 
 Create a private group on Telegram.
-Add [MissRoseBot](t.me/missrosebot) to you group and give Admin permissions.
+Add [shadow](t.me/Mr_Shadow_robot) to you group and give Admin permissions.
 Turn Chat history for members in Manage group
 send ```/id``` and get the group's ID
 
@@ -114,7 +114,7 @@ To English =>
 
 # 🏃‍♂️ Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Inukaasith/virtualuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/virtualuserbot)
 
 ``` Always try to  Deploy this source. If not you will miss the future updates```
 
@@ -210,7 +210,7 @@ published by the Free Software Foundation, either version 3 of the License, or
  
 # 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/inukaasith/virtualuserbot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/deshadeeth-thisarana/virtualuserbot/graphs/commit-activity)
 
 # Full Credits
 
@@ -249,4 +249,4 @@ All the plugins are reconfigured for for virtualuserbot. So if you have any erro
 
 ## ❤️ Made possible by [Friday Project](https://github.com/StarkGang/FridayUserbot) and many other opensource projects.. ❤️
 
-### 😍 Project by [Infinity_Bots](https://t.me/Infinity_Bots)  😍
+### 😍 Project by [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/deshadeeththisarana)  😍
